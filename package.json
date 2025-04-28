@@ -1,0 +1,25 @@
+{
+  "name": "75hard",
+  "version": "1.0.0",
+  "description": "TypeScript/Node.js app to track your progress on\"75 Hard\" - a mental toughness challenge created by Andy Frisella. Later will extend with DynamoDB integration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node tracker.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aegarcia03/75hard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aegarcia03/75hard/issues"
+  },
+  "homepage": "https://github.com/aegarcia03/75hard#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
